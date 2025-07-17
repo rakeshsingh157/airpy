@@ -7,5 +7,5 @@ services:
     env: python
     plan: free
     environment:
-      pythonVersion: 3.10.13
-
+      - key: PYTHON_VERSION
+        value: 3.10.13
