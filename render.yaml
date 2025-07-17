@@ -8,4 +8,4 @@ services:
     plan: free
     environment:
       - key: PYTHON_VERSION
-        value: 3.10.13
+        value: 3.11.9
